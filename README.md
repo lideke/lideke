@@ -6,6 +6,27 @@ I love automating repetitive tasks, and when a tool doesn't do what I need, I bu
 missing: a plugin, an integration, a script that saves hours every week. On my own time, I
 share these as free, open-source projects.
 
+#### 💼 Experience
+
+Nearly 10 years in data: BI first, then data engineering, then leading data teams.
+
+- **Brevo** (2022 – 2026): Senior Data Engineer, then Lead Data Engineer, then Engineering
+  Manager Data.
+  - Built streaming pipelines (Apache Beam, Kafka) and ingestion (Meltano, Airbyte, dbt,
+    Cloud Composer, Terraform); retired Dataiku.
+  - Owned the data platform: architecture, reliability, delivery, GCP cost optimization,
+    the webhooks infrastructure, and moving Cloud Run services on-premises.
+  - Led a cross-functional team of 9 (data engineering, analytics, SRE): OKRs, Scrum,
+    architecture decisions, incident.io alerting, a unified data platform and an AI-based
+    data observability service.
+- **Veepee** (2017 – 2022): BI developer, then data engineer. Built a datalake ingestion
+  platform (Protobuf contracts, dynamic gRPC service, Apache Beam to BigQuery) and migrated
+  legacy flows to BigQuery, in an international team.
+- **Covéa** (2016 – 2017): BI consultant on SQL Server and SSIS.
+
+**Stack:** GCP (BigQuery, Dataflow, Pub/Sub, GKE, Cloud Composer), Kafka, Apache Beam,
+Airflow, dbt, Terraform, Python, Java, Kubernetes, data observability and quality.
+
 #### 🧩 Projects
 
 - [**ChurchCRM plugins**](https://github.com/EBVN-Tech/churchcrm-plugin): plugins for
