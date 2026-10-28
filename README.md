@@ -24,6 +24,8 @@ Nearly 10 years in data: BI first, then data engineering, then leading data team
   legacy flows to BigQuery, in an international team.
 - **Covéa** (2016 – 2017): BI consultant on SQL Server and SSIS.
 
+**Education:** Epitech, Master's in IT expertise and new technologies (2004 – 2009).
+
 **Stack:** GCP (BigQuery, Dataflow, Pub/Sub, GKE, Cloud Composer), Kafka, Apache Beam,
 Airflow, dbt, Terraform, Python, Java, Kubernetes, data observability and quality.
 
